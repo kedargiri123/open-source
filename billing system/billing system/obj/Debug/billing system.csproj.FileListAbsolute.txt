@@ -1,0 +1,9 @@
+c:\users\kedar\documents\visual studio 2013\Projects\billing system\billing system\bin\Debug\billing system.exe.config
+c:\users\kedar\documents\visual studio 2013\Projects\billing system\billing system\bin\Debug\billing system.exe
+c:\users\kedar\documents\visual studio 2013\Projects\billing system\billing system\bin\Debug\billing system.pdb
+c:\users\kedar\documents\visual studio 2013\Projects\billing system\billing system\obj\Debug\billing_system.Form1.resources
+c:\users\kedar\documents\visual studio 2013\Projects\billing system\billing system\obj\Debug\billing_system.Properties.Resources.resources
+c:\users\kedar\documents\visual studio 2013\Projects\billing system\billing system\obj\Debug\billing system.csproj.GenerateResource.Cache
+c:\users\kedar\documents\visual studio 2013\Projects\billing system\billing system\obj\Debug\billing system.exe
+c:\users\kedar\documents\visual studio 2013\Projects\billing system\billing system\obj\Debug\billing system.pdb
+C:\Users\kedar\documents\visual studio 2013\Projects\billing system\billing system\obj\Debug\billing system.csprojResolveAssemblyReference.cache
